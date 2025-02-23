@@ -2,7 +2,6 @@
 
 Karting Portal is a Next.js web application designed for tracking best lap times and viewing progression for a group of friends who frequently go karting at TeamSport and other tracks. The portal allows users to plan karting days, set attendance statuses, and share lap time records, with Discord integration to notify the group when a new record is set.
 
-![Karting Portal Logo](https://plebsontrack.com/logo.png)
 ## Features
 
 - **Lap Time Tracking**: Monitor and compare lap times for each session.
